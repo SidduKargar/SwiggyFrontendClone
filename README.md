@@ -1,8 +1,17 @@
-# React + Vite
+# Swiggy Clone (Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A frontend clone of Swiggy built using **React**, **Bootstrap**, and **Redux** for state management. This project aims to recreate key functionalities such as user signup, adding items to the cart, and managing global state with Redux.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Responsive Design**: Fully responsive layout using Bootstrap.
+- **Signup Page**: Allows users to register for an account.
+- **Add to Cart**: Users can add food items to their cart.
+- **Redux for State Management**: Global state management for cart items and user authentication.
+
+## Technologies Used
+
+- **React**: For building the user interface.
+- **Bootstrap**: For styling the UI with responsive design components.
+- **Redux**: For managing application state.
+- **React Router**: For handling routing in the application.
